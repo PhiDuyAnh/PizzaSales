@@ -21,3 +21,21 @@ Using a sales dataset of a pizza company with more than 48.000 records to find k
 ### Best & Worst Sellers
 - The Thai Chicken Pizza brought the most revenue of approximately $43.000 while The Brie Carre Pizza brought the least revenue of 3.5 times less than the former.
 - Although the top 5 pizzas by Quantity and Total Orders (The Classic Deluxe, The Barbecue Chicken, The Hawaiian Pizza, The Pepperoni Pizza, The Thai Chicken) shared pretty similar figures, the bottom 5 pizzas by the same metrics saw the significantly lower numbers of The Brie Carre Pizza compared to the rest.
+
+## Recommendations & Next Steps
+
+### Daily and Monthly Trends
+- Since Fridays and Saturdays are the busiest days, focus on promotions and targeted marketing during weekends to maximize sales. July, being the peak month for orders, could be leveraged for seasonal promotions or special deals.
+- Implement a marketing calendar to plan promotional activities around Fridays, Saturdays, and peak months like July.
+
+### Pizza Category & Size
+- Given the high sales of Classic and Supreme pizzas, continue promoting these popular categories.
+- Develop combo offers with Large-sized pizzas and Classic or Supreme categories to attract more customers.
+
+### Best & Worst Sellers
+- The Thai Chicken Pizza is the top revenue generator, so it should remain a central focus in promotions. However, the poor performance of the Brie Carre Pizza indicates it may need re-evaluation in terms of pricing, marketing, or removal from the menu.
+- Find out if certain customer segments prefer the Brie Carre Pizza, which could help target specific promotions or rework its recipe.
+
+### Product Optimization
+- Focus on optimizing the pizza sizes and categories that perform well. For example, XXL pizzas contribute minimally to revenue, suggesting customers are not interested in this option. Consider removing or replacing this size.
+- Carry out surveys or testing to gauge customer interest in different pizza sizes before making changes.
