@@ -1,6 +1,10 @@
 # Pizza Sales SQL & Power BI Guided Project
 Using a sales dataset of a pizza company with more than 48.000 records to find key insights with SQL and visualize them onto a Power BI dashboard.
 
+## Disclaimer
+This is a guided project which you can find [here](https://www.youtube.com/watch?v=V-s8c6jMRN0&list=PLE0RfjoHd8G6TsrHVg0BVgxiuRKtnL2sC&index=8)<br/>
+However, all the metrics, summary of insights and recommendations below are made by my efforts!
+
 ## Metrics
 - Sales: Total sales/revenue from pizzas sold (total_price)
 - Period: 1st January - 31st December 2015
