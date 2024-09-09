@@ -3,7 +3,7 @@ Using a sales dataset of a pizza company with more than 48.000 records to find k
 
 ## Disclaimer
 This is a guided project which you can find [here](https://www.youtube.com/watch?v=V-s8c6jMRN0&list=PLE0RfjoHd8G6TsrHVg0BVgxiuRKtnL2sC&index=8).<br/>
-However, the dashboard, sql queries, all the metrics, summary of insights and recommendations below are made by my efforts!
+However, the dashboard, SQL queries, all the metrics, summary of insights and recommendations below are made by my efforts!
 
 <img width="616" alt="home" src="https://github.com/user-attachments/assets/27fb7f6b-99c7-4a6d-8429-91753857d5f6">
 <img width="618" alt="best worst" src="https://github.com/user-attachments/assets/0f9db8cb-ae39-4dc4-91dc-3b2aa440136e">
